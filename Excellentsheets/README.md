@@ -8,6 +8,8 @@ This Google Spreadsheet will be shared to the desired google account with the de
   
 - OpenSheet.py - Python script to create and share Google Spreadsheet with formatted Worksheets. 
 
+- deletespreadsheets.py - Python script to delete unwanted Google Spreadsheet, requires URL of created spreadsheet.
+
 
 # How to run?
 1. Open OpenSheet.exe
