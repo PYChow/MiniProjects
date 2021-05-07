@@ -4,7 +4,7 @@ import tkinter as tk
 
 # To authenticate Google Service Account
 gc = gspread.service_account(
-    filename="/Users/chow/assignments/Week2/Exercise3/excelentsheets-7f71669766da.json"
+    filename="Location to your .json api key here"
 )
 
 # Makes a new spreadsheet with desired name and shares to email entered.
